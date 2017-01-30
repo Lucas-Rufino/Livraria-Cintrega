@@ -1,0 +1,6 @@
+3   <<<< Número aqui
+
+Digite o número:
+(1) para Repositório Array;
+(2) para Repositório Lista;
+(3) para Repositório Arquivo;
